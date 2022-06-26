@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LAB2_Postfix_Students", "LAB2_Postfix_Students.vcxproj", "{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Debug|x64.ActiveCfg = Debug|x64
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Debug|x64.Build.0 = Debug|x64
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Debug|x86.Build.0 = Debug|Win32
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Release|x64.ActiveCfg = Release|x64
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Release|x64.Build.0 = Release|x64
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Release|x86.ActiveCfg = Release|Win32
+		{DCE126B3-780F-4BA7-8A2B-27C2B01A5651}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {110A64BE-462A-48FC-B7CA-D29F37C0BDD1}
+	EndGlobalSection
+EndGlobal

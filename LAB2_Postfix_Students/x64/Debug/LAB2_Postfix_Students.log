@@ -1,0 +1,8 @@
+﻿  postfix_given.c
+C:\Users\bbok\Desktop\연세대학교\데이터구조및알고리즘\LAB2_Queue\LAB2_Postfix_Students\postfix_given.c(17,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  postfix_main.c
+  postfix_module.c
+C:\Users\bbok\Desktop\연세대학교\데이터구조및알고리즘\LAB2_Queue\LAB2_Postfix_Students\postfix_module.c(112,22): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bbok\Desktop\연세대학교\데이터구조및알고리즘\LAB2_Queue\LAB2_Postfix_Students\postfix_module.c(217,9): warning C4101: 'totalvalue' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  LAB2_Postfix_Students.vcxproj -> C:\Users\bbok\Desktop\연세대학교\데이터구조및알고리즘\LAB2_Queue\LAB2_Postfix_Students\x64\Debug\LAB2_Postfix_Students.exe

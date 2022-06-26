@@ -1,0 +1,3 @@
+C:\Users\ggu10\source\repos\LAB2_Postfix_Students\x64\Debug\LAB2_Postfix_Students.exe
+C:\Users\ggu10\Downloads\LAB2_Students\LAB2_Postfix_Students\x64\Debug\LAB2_Postfix_Students.exe
+C:\Users\bbok\Desktop\연세대학교\데이터구조및알고리즘\LAB2_Queue\LAB2_Postfix_Students\x64\Debug\LAB2_Postfix_Students.exe
